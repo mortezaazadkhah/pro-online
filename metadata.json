@@ -1,0 +1,6 @@
+
+{
+  "name": "اتاق پرو آنلاین",
+  "description": "An online clothing try-on application where users can upload a photo of themselves and a photo of a garment to see a virtual preview of how it would look.",
+  "requestFramePermissions": []
+}
